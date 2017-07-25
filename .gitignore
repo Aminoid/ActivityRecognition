@@ -1,0 +1,17 @@
+node_modules/
+react-native-packager-cache-V/
+package-lock.json
+
+ios/build/
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+Pods/
+*.lock
+
+android/.gradle/
+android/build/
+android/app/build/
+android/.idea/
+android/local.properties
+android/*.iml
